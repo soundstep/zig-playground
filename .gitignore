@@ -23,3 +23,5 @@ _tmp*
 .vscode
 *.iml
 .idea
+
+zig-cache
